@@ -1,0 +1,23 @@
+{
+  "name": "znerg-inception",
+  "main": "inception.js",
+  "authors": [
+    "ZnerG IT Consulting LLC"
+  ],
+  "license": "MIT",
+  "homepage": "http://znerg.com",
+  "private": true,
+  "ignore": [],
+  "dependencies": {
+    "angular": ">=1.3.0"
+  },
+  "_release": "0468ea3d9b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0468ea3d9bfe7f0f8b55568f65f1f3b21345c7f4"
+  },
+  "_source": "http://52.32.246.165:7990/bitbucket/scm/in/g-web.git",
+  "_target": "*",
+  "_originalSource": "znerg-inception"
+}
